@@ -2,7 +2,7 @@
 ## Git reset  
 Git reset会改变commit提交记录(git hi -5)，因为改变了HEAD  
 三个概念：  
-- **HEAD**：当前分支你最新提交的别名  
+- **HEAD**：当前分支你最新commit的别名  
 - **index**：也被称为staging area，暂存区  
 - **Working Directory**：工作目录
 
